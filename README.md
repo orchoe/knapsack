@@ -1,5 +1,5 @@
 ## Genetic Algorithm Way to Solve Knapsack Problem
-### It is suitable for solving knapsack problem with large data.
+### It is suitable for solving knapsack problems with large data.
 
 ### Original Question: 
 Designing a competition allows the player to score as high as possible. 
