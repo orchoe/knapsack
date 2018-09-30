@@ -47,7 +47,6 @@ public class ReadFile {
             System.out.println("读取文件内容出错!");
             e.printStackTrace();
         }
-
     }
 
 }
