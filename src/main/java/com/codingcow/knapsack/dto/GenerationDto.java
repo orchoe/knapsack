@@ -1,7 +1,5 @@
 package com.codingcow.knapsack.dto;
 
-import com.codingcow.knapsack.pojo.ScoreAndTime;
-
 import java.util.List;
 
 /**
@@ -13,7 +11,7 @@ public class GenerationDto<T> {
 
     private int sequence;
     private List<T> generation;
-    private String[] optimalCombination;
+    private T optimalCombination;
 
     public int getSequence() {
         return sequence;
@@ -31,11 +29,11 @@ public class GenerationDto<T> {
         this.generation = generation;
     }
 
-    public String[] getOptimalCombination() {
+    public T getOptimalCombination() {
         return optimalCombination;
     }
 
-    public void setOptimalCombination(String[] optimalCombination) {
+    public void setOptimalCombination(T optimalCombination) {
         this.optimalCombination = optimalCombination;
     }
 
