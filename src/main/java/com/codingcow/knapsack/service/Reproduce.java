@@ -11,7 +11,6 @@ import java.util.*;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-27 17:29
- * @Email: austin.zhang@dadaabc.com
  */
 @Service
 public class Reproduce {
