@@ -3,7 +3,6 @@ package com.codingcow.knapsack.pojo;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-27 19:42
- * @Email: austin.zhang@dadaabc.com
  */
 public class ScoreAndTime implements Comparable<ScoreAndTime> {
 
