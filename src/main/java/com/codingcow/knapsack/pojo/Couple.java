@@ -3,7 +3,6 @@ package com.codingcow.knapsack.pojo;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-28 11:47
- * @Email: austin.zhang@dadaabc.com
  */
 public class Couple {
 
