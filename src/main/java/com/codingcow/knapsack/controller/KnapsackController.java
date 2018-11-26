@@ -20,7 +20,6 @@ import java.util.Map;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-28 17:56
- * @Email: austin.zhang@dadaabc.com
  */
 @RestController
 public class KnapsackController {
