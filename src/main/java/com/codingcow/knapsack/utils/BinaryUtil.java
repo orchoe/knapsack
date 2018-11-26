@@ -7,7 +7,6 @@ import java.util.Set;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-28 18:13
- * @Email: austin.zhang@dadaabc.com
  */
 public class BinaryUtil {
 
