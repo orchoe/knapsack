@@ -5,7 +5,6 @@ import java.util.List;
 /**
  * @Author: Austin Zhang
  * @Date: 2018-09-28 20:33
- * @Email: austin.zhang@dadaabc.com
  */
 public class GenerationDto<T> {
 
